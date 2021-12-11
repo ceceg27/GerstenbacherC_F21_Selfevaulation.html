@@ -1,0 +1,164 @@
+---
+title: "AN/BI 588: End-of-Semester Self Evaluation"
+author: "Cecelia Gerstenbacher"
+date: "December 11, 2021"
+output: 
+  rmarkdown::html_document:
+    theme: cosmo
+---
+
+***
+
+### [Course Overview](https://fuzzyatelin.github.io/bioanth-stats/overview.html)
+### [Course Outline](https://fuzzyatelin.github.io/bioanth-stats/outline.html)
+### [Modules](https://fuzzyatelin.github.io/bioanth-stats/modules.html)
+### [Assignments](https://fuzzyatelin.github.io/bioanth-stats/assignments.html)
+### [Resources](https://fuzzyatelin.github.io/bioanth-stats/resources.html)
+### [Policies](https://fuzzyatelin.github.io/bioanth-stats/policies.html)
+### [Insurmountable Coding Problems](https://fuzzyatelin.github.io/bioanth-stats/studentproblems.html)
+
+***
+
+<center>
+
+<font size="+2"><b>BGB (Bye, girl, bye!).</b></font></center><br>
+
+<center><p><img src="https://media.giphy.com/media/vzSitpVK7l2WA/giphy.gif" style="border:5px solid black"></p>
+</center><br>
+
+<center>
+I was stumbling through R before September, relying on pieced together old codes from past grad students, without even the knowledge on *how* to properly google a problem I was having. This course has equip me with the knowledge of what can be done in R, how to do it (or where to find out how to do it), and most importantly how to trouble shoot and collaborate when things inevitably go wrong. I have a long ways to go, but I leave AN588 with my confident face *on*. 
+
+</center>
+***
+
+### Overall Impression
+
+***
+
+In place of my name as author on this Markdown file, please insert your own, along with the date on which you completed this self-assessment. In place of the RuPaul GIF, above, please choose a GIF of a drag queen that best exemplifies your overall feelings about what you learned/accomplished in this course. Additionally, replace the `The following self evaluation...` text below your GIF with a three sentence summary of your experience in the class and what you take away from it to accompany that GIF. You may also choose a catchy title.
+
+***
+
+### What were you asked to do?
+
+***
+
+- Homework 1: Push it! + peer commentary 
+https://github.com/ceceg27/AN588-Week-2-ceceg27/blob/main/ceceg27_FinalHomeworkCode_1.html
+
+https://github.com/dippelmax/AN588-Week-2-dippelm/blob/main/dipelmax_PeerCommentary_eceg27_01.html
+
+https://github.com/ejv98/AN588-Week-2-ejv98/blob/main/ejv98_PeerCommentary_ceceg27_01.html
+
+- Homework 2: Titis in the Mist + peer commentary 
+https://github.com/ceceg27/AN588-Week-3-ceceg27/blob/master/ceceg27_FinalHomeworkCode_02.html
+
+https://github.com/dippelmax/AN588_Week3_dippelm/blob/main/dippelmax_peercommentary_ceceg27_02.html
+
+- Homework 3: Some of my Best Friends are Zombies + peer commentary 
+https://github.com/ceceg27/AN588_Zombies_ceceg27/blob/master/ceceg27_FinalHomeworkCode_03.html
+
+https://github.com/gabovicen/AN588_Zombies_gabovicen/blob/main/ceceg27_PeerCommentary_gabovicen_03.html
+
+- Homework 4: Whats your Malfunction? + peer commentary 
+https://github.com/ceceg27/AN588_Malfunction_ceceg27/blob/master/ceceg27_FinalHomeworkCode_04.html
+
+https://github.com/mrubiog2000/AN588_Malfunction_mrubiog2000/blob/main/mrubiog2000_PeerCommentary_ceceg27_04.html
+
+https://github.com/vfrench-397/AN588_Malfunction_vfrench3/blob/main/vfrench3_PeerCommentary_ceceg27_04.html
+
+- Homework 5: Boots for days! + peer commentary 
+https://github.com/ceceg27/AN588_Boots_ceceg27/blob/main/ceceg27_FinalHomeworkCode_05.html 
+
+https://github.com/butterfliesrcool/AN588_Boots_aer13/blob/main/aer13_peercommentary_ceceg27.html
+
+https://github.com/nirmitin/AN588_Boots_nirmitin/blob/main/nirmitin_peercommentary_ceceg27.html
+
+- Analysis Replication Assignment https://github.com/ceceg27/ceceg27-data-replication-assignment/blob/main/ceceg27_replication_code.html
+
+- Group Presentation
+https://github.com/vfrench-397/AN588_RVignette/blob/main/Liver_Tutorial.html
+
+- Self Eval (this document)<br><br><br><br><br><br>
+
+***
+
+### What did you accomplish?
+
+***
+
+I accomplished all of the above tasks before each due date. <br><br><br><br><br><br>
+
+***
+
+### How well did you accomplish them?
+
+***
+
+I feel I did every task to the best of my ability. That doesn't mean every task was perfect, or that every final homework didn't still have an error or two. But I improved each homework as necessary between the original and final push, and tried my hardest to collaborate with peers when something wasn't working. 
+
+I feel I did the best at taking my peers' advice within the peer commentary, and the least good at anything involving a function. Trying to comprehend how to write my own function was definitely the hardest task I faced and the thing I am least confident in. 
+
+As my understanding increased, the homeworks got harder, so the ease in which I accomplished tasks stayed the same. That being said, I can now return to the earlier homeworks and breeze through them, where I couldn't when I was first doing them, and I find it a lot easier to write my own code for my research. Thus I would definitely say my understanding improved. <br><br><br><br><br><br>
+
+***
+
+### How has your understanding of and approach to statistics and project design changed since taking this course?
+
+***
+
+The previous classes I took regarding stats were so theoretical that I really had a hard time grasping their practical use. This class took very theoretical and complex analyses, and applied them to real data, in real scenarios, allowing me to understand when to employ certain stats, and how to interpret their output into meaningful information. I can now identify what type of stats to apply in my own research as I'm designing the methodology, without spending hours wondering what a stat even means, let alone if I should use it. Its made my project design much more efficient and effective. <br><br><br><br><br><br><br><br>
+
+***
+
+### What did you learn from all this?
+
+***
+
+1: I learned how to use GitHub! Before this course I didn't even know Github existed but wow do I wish I did. I struggled immensely with data organization in the past and honestly had no idea how to save or store my R files. Github is something I will continuously use in my career, and I actually feel very comfortable with it. 
+
+2: I learned how to properly comment on someone's code. Before I started this course I didn't know enough about R to help myself, let alone help someone else. Now I feel I can read a classmate or labmates code, identify potential areas of error, and even give advice. The peer commentaries certainly boosted my confidence in that way. 
+
+3: I learned the *language* or R. When I would code prior to this class, I always felt like I was copy and pasting with truly no idea what anything meant. Now when I read R code, my brain can translate things from code into what that means for my output. Does that make sense? I feel like I'm "fluent" (or atleast getting there), like in any other language. <br><br><br><br><br><br><br><br>
+
+***
+
+### What did your learn about teamwork in this course? How did the readings on teamwork foster this understanding? How did the teamwork experiences?
+
+***
+
+I had such a different experience working in a team in this class than others. I often find myself being a little headstrong and overly-leaderly in projects which can be a fault. Because I didn't have a background in the topic we were dealing with, I didn't have the capacity to over-lead, and instead had to rely on the my teammates and our combined knowledge. I think it helped me become more of a team player, as we were all learning something totally new together. We had many trouble shooting zoom calls, and ended up accomplishing a great project. It's definitely what I'm most proud of from the class. 
+
+PS: I don't think we had any readings on teamwork? Correct me if I'm wrong, I assume thats a typo meant for the 2019 class.<br><br><br><br><br><br><br><br><br><br><br><br>
+
+***
+
+### How did the Peer Commentary process and Group Project relate, if at all, to what you view as your successes or difficulties in this course?
+
+***
+The peer commentary experience constantly improved my code and my understanding of the many ways to solve each problem we faced. I've never had the opportunity to see someone else's code and compare it to mine, and it widened my perspective. I had a lot of aha moments where I was struggling and someone else had created such an understandable solution. I probably had just as many moments where I saw someone's code not working, and knew exactly what the solution would be. 
+
+In every circumstance my good code became better, and my crappy code became atleast kinda functional with the help of my peers. I think the only time I still really struggled after peer commentary was with the function writing, just because there were so many ways it could be accomplished, and I had a hard time sticking to one. 
+
+The group project relates directly to what I view my successes to be, because I'm very proud of it and believe it to be one of the most successful group projetcs I've ever done.<br><br><br><br><br><br><br><br><br><br><br><br>
+
+***
+
+### What, if anything, of lasting value do you take away from this experience? If nothing, what would you do differently if you were to start over in this course? 
+
+***
+
+I'm not coming away from this class as an R-expert. I still definitely feel intermediate and that I could use a lot of improvement. But making the jump from basically R-illiterate to R-intermediate in just a few months has been really exciting. I think the most valuable thing I take away is the capacity to problem solve in R better. I may not always know the answer, but I know where and how to find it (Besides, I think that's what the "experts" do anyway haha). 
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+***
+
+### Taking this self-assessment into account (and with **A** being the highest), if you were the instructor, what grade would you give yourself given your evaluation of your own performance this semester? Please be honest.
+
+***
+
+<br><center>[A-]</center><br>
+
+***
+
